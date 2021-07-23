@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tempappreact/static/css/main.2c6700b0.chunk.css",
+    "main.js": "/tempappreact/static/js/main.5db9b2c9.chunk.js",
+    "main.js.map": "/tempappreact/static/js/main.5db9b2c9.chunk.js.map",
+    "runtime-main.js": "/tempappreact/static/js/runtime-main.59b32d7c.js",
+    "runtime-main.js.map": "/tempappreact/static/js/runtime-main.59b32d7c.js.map",
+    "static/js/2.5b2335b9.chunk.js": "/tempappreact/static/js/2.5b2335b9.chunk.js",
+    "static/js/2.5b2335b9.chunk.js.map": "/tempappreact/static/js/2.5b2335b9.chunk.js.map",
+    "static/js/3.c62c3b70.chunk.js": "/tempappreact/static/js/3.c62c3b70.chunk.js",
+    "static/js/3.c62c3b70.chunk.js.map": "/tempappreact/static/js/3.c62c3b70.chunk.js.map",
+    "index.html": "/tempappreact/index.html",
+    "static/css/main.2c6700b0.chunk.css.map": "/tempappreact/static/css/main.2c6700b0.chunk.css.map",
+    "static/js/2.5b2335b9.chunk.js.LICENSE.txt": "/tempappreact/static/js/2.5b2335b9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tempappreact/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59b32d7c.js",
+    "static/js/2.5b2335b9.chunk.js",
+    "static/css/main.2c6700b0.chunk.css",
+    "static/js/main.5db9b2c9.chunk.js"
+  ]
+}
